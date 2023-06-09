@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "6hZsrWMhqbiTU8qG1llHDbh6hhFDwqea7b5fjexQBABLyvp5uNOt9N/tED9E5ELCMHp2fmQpJDO37CyKVFSt7Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\korne\\Desktop\\school\\BeforeNightFall\\BeforeNightFall\\BeforeNightFall\\BeforeNightFall.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\korne\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\korne\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\korne\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\korne\\.nuget\\packages\\microsoft.netcore.app.host.win-x86\\3.1.23\\microsoft.netcore.app.host.win-x86.3.1.23.nupkg.sha512"
+  ],
+  "logs": []
+}
